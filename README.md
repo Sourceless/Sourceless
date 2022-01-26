@@ -1,16 +1,17 @@
-### Hi there 👋
+# Laurence Pakenham-Smith (he/him)
+```
+specialty: Building teams that deliver reliable and scalable platforms
+skillset: Site Reliability & Full Stack
+role: Sr SRE
+work: Kevel (formerly Adzerk)
 
-<!--
-**Sourceless/Sourceless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+e: laurence@sourceless.org
+t: @sourceless
+l: uk.linkedin.com/in/laurencejosephsmith
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun facts:
+* I play the [bagpipes](https://en.wikipedia.org/wiki/Uilleann_pipes), [penny whistle](https://en.wikipedia.org/wiki/Tin_whistle), and a load of other instruments. I also briefly studied opera singing.
+* I like to hack on [programming languages](https://github.com/Sourceless/wizard) in my spare time, especially ones with [silly type systems](https://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/cubical+type+theory).
+* I have two fluffy white cats: one large, and one small.
+* I keep telling myself that I'll actually finish and release a video game one day, but we all know that isn't going to happen.
