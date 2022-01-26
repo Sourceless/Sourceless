@@ -5,6 +5,7 @@ skillset: Site Reliability & Full Stack
 role: Sr SRE
 work: Kevel (formerly Adzerk)
 
+w: sourceless.org
 e: laurence@sourceless.org
 t: @sourceless
 l: uk.linkedin.com/in/laurencejosephsmith
