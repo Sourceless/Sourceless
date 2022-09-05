@@ -1,8 +1,8 @@
 # Laurence Pakenham-Smith (he/him)
 ```
 specialty: Building teams that deliver reliable and scalable platforms
-skillset: Site Reliability & Full Stack
-role: Sr SRE
+skillset: Site Reliability, Full Stack, Management, Security
+role: SRE Manager
 work: Kevel (formerly Adzerk)
 
 w: sourceless.org
