@@ -1,6 +1,7 @@
 # Laurence Pakenham-Smith (he/him)
 ```
-specialty: Building teams that deliver reliable and scalable platforms
+full title: Mr Laurence Pakenham-Smith DipHE MBCS
+specialty: Building organisations that deliver reliable, scalable, and secure platforms
 skillset: Site Reliability, Full Stack, Management, Security
 role: SRE Manager
 work: Kevel (formerly Adzerk)
