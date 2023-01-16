@@ -7,7 +7,6 @@ work: Kevel (formerly Adzerk)
 
 w: sourceless.org
 e: laurence@sourceless.org
-t: @sourceless
 l: uk.linkedin.com/in/laurencejosephsmith
 ```
 
