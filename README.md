@@ -1,6 +1,5 @@
-# Laurence Pakenham-Smith (he/him)
+# Laurence Pakenham-Smith CITP MBCS (he/they)
 ```
-full title: Mr Laurence Pakenham-Smith CITP MBCS
 specialty: Building organisations that deliver reliable, scalable, and secure platforms
 skillset: Site Reliability, Full Stack, Management, Security
 role: SRE Manager
